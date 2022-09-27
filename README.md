@@ -30,4 +30,4 @@ Below is a list of things that all Frontend developers should know and try to ad
 ## Design
 
 ## Other
-### [Code Review Checklist](./CodeReview.md)
+### [Code Reviews](./CodeReview.md)

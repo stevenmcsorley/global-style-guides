@@ -3,7 +3,7 @@
 
 
 These represent a set of best practices for all UI developers. It was created so the UI code is more consistent, easier to maintain, read and test.
-Because every developer has idiosyncrasies it is expected that some of the ideas in this document may raise questions. We are open to discussion and learning new ways of doing code faster and more productive. If that is the case please don't hesitate to contact one of the UI developers.
+Because every developer has idiosyncrasies it is expected that some of the ideas in this document may raise questions. We are open to discussion and learning new ways of doing code faster and more productive.
 
  - [File structure](#file-structure)
  - [Naming conventions](#naming-conventions)
